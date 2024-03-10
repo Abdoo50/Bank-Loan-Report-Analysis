@@ -1,4 +1,5 @@
-![image](https://github.com/Abdoo50/Bank-Loan-Report-Analysis/assets/97554939/ff9bbbe0-c8cc-4b3c-8a22-0ae0a62df500)# Bank Loan Report Analysis
+# Bank Loan Report Analysis
+![image](https://github.com/Abdoo50/Bank-Loan-Report-Analysis/assets/97554939/ff9bbbe0-c8cc-4b3c-8a22-0ae0a62df500)
 
 ## Overview
 This repository contains SQL queries and a Power BI dashboard for analyzing bank loan data. The analysis aims to provide insights into loan application trends, funding amounts, repayment behavior, and other key performance indicators (KPIs) essential for understanding the bank's lending activities.
